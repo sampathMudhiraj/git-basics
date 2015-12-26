@@ -1,1 +1,1 @@
-simple get example
+simple get bexample
