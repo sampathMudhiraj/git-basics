@@ -2,4 +2,4 @@
 simple tutorials for git
 
 
-simple file updating for test case
+simple file updating for case
